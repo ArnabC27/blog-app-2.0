@@ -20,7 +20,7 @@
 
 > `yarn install`
 
-6. Now, go back to **blog-app-2.0** directory
+6. Now, go back to ***blog-app-2.0*** directory
 
 7. Run the following to open the project in VS Code:
 
@@ -28,12 +28,12 @@
 
 8. Now inside VS Code open 2 different terminals
 
-9. In the 1st terminal, navigate to **blog-app-2.0/client** and run:
+9. In the 1st terminal, navigate to ***blog-app-2.0/client*** and run:
 
 > `yarn start`
 
-10. In the 2nd terminal, navigate to **blog-app-2.0/api** and run:
+10. In the 2nd terminal, navigate to ***blog-app-2.0/api*** and run:
 
 > `nodemon index.js`
 
-11. The blog-app will start at **localhost:3000**
+11. The blog-app will start at ***localhost:3000***
