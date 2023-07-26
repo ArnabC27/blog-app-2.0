@@ -1,4 +1,4 @@
-# blog-app
+# blog-app-2.0
 
 1.  Clone this repository ususing the following command:
 
